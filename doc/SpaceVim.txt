@@ -980,7 +980,7 @@ Add custom plugins.
 <
 
                                                    *g:spacevim_filetype_icons*
-change the default filetype icon for a specific filtype.
+change the default filetype icon for a specific filetype.
 >
   let g:spacevim_filetype_icons['md'] = ''
 <
